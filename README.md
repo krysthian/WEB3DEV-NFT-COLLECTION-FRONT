@@ -8,4 +8,4 @@ Para iniciar esse curso, clone esse repositório e digite os seguintes comandos:
 3. Agora é só codar!
 
 ### **Perguntas?**
-Se tiver perguntas, entre [na página do Curso](https://bootcamp.web3dev.com.br/courses/NFT_Collection), faça o link com seu Discord. No [Discord da comunidade](https://discord.web3dev.com.br) você terá acesso aos canais de ajuda e aos monitores de bootcamp.
+Se tiver perguntas, entre [na página do Curso](https://bootcamp.web3dev.com.br/courses/NFT_Collection), faça o link com seu Discord. No [Discord da comunidade](https://discord.web3dev.com.br) você terá acesso aos canais de ajuda e aos monitores de bootcamp.# WEB3DEV-NFT-COLLECTION-FRONT
